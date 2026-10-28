@@ -2,37 +2,70 @@
 
 | | |
 |---|---|
-| **Duración objetivo** | 5 minutos |
-| **Editor online** | Replit (https://replit.com) |
-| **Código inicial** | [`starter-files/leccion-01/Main.java`](../starter-files/leccion-01/Main.java) |
-| **Código resuelto** | [`completed-examples/leccion-01/Main.java`](../completed-examples/leccion-01/Main.java) |
+| **Duración** | 5 minutos |
+| **Empieza a programar** | copia [`starter-files/leccion-01/Main.java`](../starter-files/leccion-01/Main.java) en el editor online y pulsa **Run** |
+| **Solución** | [`completed-examples/leccion-01/Main.java`](../completed-examples/leccion-01/Main.java) |
 
-## Objetivo
+## Qué vas a aprender
 
-Que el estudiante entienda qué es un programa y ejecute su primera línea de Java en el navegador.
+- Qué es un programa.
+- Para qué se usa Java.
+- Cómo escribir y ejecutar tu primera instrucción.
 
-## Guion
+## Programar es dar instrucciones
 
-| Tiempo | Bloque | Qué se dice y se hace | Texto en pantalla |
-|---|---|---|---|
-| 0:00–0:40 | Gancho | Pregunta: «¿Sabías que Minecraft se creó en Java?». Muestra que los juegos, las apps de Android y muchos sistemas de bancos funcionan con Java. | ¿Qué tienen en común Minecraft y tu app del banco? |
-| 0:40–1:40 | Qué es programar | Un programa es una receta: instrucciones en orden que la computadora sigue al pie de la letra. Si la receta tiene un error, el plato sale mal. | Programar = dar instrucciones exactas |
-| 1:40–2:30 | El editor online | Abre el enlace de la lección: no hay que instalar nada. Señala el área de código, el botón Run y la consola. | Código · Run · Consola |
-| 2:30–4:00 | Hola mundo | Escribe `System.out.println("¡Hola, mundo!");` letra a letra. Explica que el texto va entre comillas y que cada instrucción termina en `;`. Ejecuta. | Las instrucciones terminan en ; |
-| 4:00–4:40 | Pausa de práctica | Pide que pausen el video y muestren su propio nombre y su juego favorito. | ⏸ Pausa y muestra tu nombre |
-| 4:40–5:00 | Cierre | Anuncia el hilo del curso: «En la próxima lección le damos vida a nuestro personaje de videojuego». | Próxima: variables |
+¿Sabías que Minecraft se creó en Java? Los juegos, las apps de Android y muchos sistemas de bancos
+funcionan con Java.
 
-## Errores comunes que conviene mostrar
+Un programa es como una **receta**: una lista de instrucciones en orden que la computadora sigue al
+pie de la letra. Si la receta tiene un error, el plato sale mal; si el programa tiene un error, no
+funciona o hace algo distinto de lo que querías.
 
-- Olvidar el `;` al final.
-- Escribir `system` en minúscula: Java distingue mayúsculas.
+## El editor online
 
-## Antes de publicar
+No hace falta instalar nada. El editor tiene tres partes:
 
-- [ ] Grabación de pantalla con narración en off, sin rostro, nombres ni logos de quien la graba.
-- [ ] Texto en pantalla de cada bloque y anotaciones sobre el código.
-- [ ] Letra del editor ampliada para que se lea en un teléfono.
-- [ ] Enlace al editor con el código inicial precargado en la descripción del video.
-- [ ] Video subido a YouTube como **no listado** y enlace añadido a `course-plan.md`.
+- **el área de código**, donde escribes;
+- **el botón Run**, que ejecuta el programa;
+- **la consola**, donde aparece lo que el programa muestra.
 
-**Siguiente:** [Lección 2: Variables y tipos de datos](leccion-02.md)
+## Tu primera instrucción
+
+Dentro de las llaves de `main` escribe:
+
+```java
+System.out.println("¡Hola, mundo!");
+```
+
+Pulsa **Run** y en la consola aparece `¡Hola, mundo!`.
+
+- `System.out.println(...)` muestra en la consola lo que pongas entre los paréntesis.
+- El texto va **entre comillas**.
+- Cada instrucción termina en **punto y coma** `;`.
+
+Puedes escribir varias instrucciones, una debajo de otra; la computadora las ejecuta en orden:
+
+```java
+System.out.println("¡Hola, mundo!");
+System.out.println("Soy un programa escrito en Java.");
+```
+
+## ⏸ Tu turno
+
+Muestra en la consola tu nombre y tu juego favorito, cada uno en su propia línea.
+
+## Errores típicos
+
+| Error | Qué pasa | Cómo se arregla |
+|---|---|---|
+| Olvidar el `;` al final | el editor marca un error y no ejecuta | añade `;` al final de la instrucción |
+| Escribir `system` en minúscula | Java no lo reconoce | escribe `System`: Java distingue mayúsculas de minúsculas |
+| Olvidar una comilla | el texto no se cierra y aparece un error | abre y cierra el texto con `"` |
+
+## Resumen
+
+- Un programa es una lista de instrucciones que se ejecutan en orden.
+- `System.out.println("texto");` muestra un texto en la consola.
+
+**Siguiente:** [Lección 2: Variables y tipos de datos](leccion-02.md) — le damos vida a nuestro
+personaje de videojuego.
