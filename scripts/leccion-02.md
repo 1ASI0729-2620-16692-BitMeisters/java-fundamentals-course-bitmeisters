@@ -2,36 +2,68 @@
 
 | | |
 |---|---|
-| **Duración objetivo** | 6 minutos |
-| **Editor online** | Replit (https://replit.com) |
-| **Código inicial** | [`starter-files/leccion-02/Main.java`](../starter-files/leccion-02/Main.java) |
-| **Código resuelto** | [`completed-examples/leccion-02/Main.java`](../completed-examples/leccion-02/Main.java) |
+| **Duración** | 6 minutos |
+| **Empieza a programar** | copia [`starter-files/leccion-02/Main.java`](../starter-files/leccion-02/Main.java) en el editor online y pulsa **Run** |
+| **Solución** | [`completed-examples/leccion-02/Main.java`](../completed-examples/leccion-02/Main.java) |
 
-## Objetivo
+## Qué vas a aprender
 
-Que el estudiante declare variables de los cuatro tipos básicos y las muestre combinadas con texto.
+- Qué es una variable.
+- Los cuatro tipos de datos básicos: `String`, `int`, `double` y `boolean`.
+- Cómo mostrar variables junto con texto.
 
-## Guion
+## Una variable es una caja con nombre
 
-| Tiempo | Bloque | Qué se dice y se hace | Texto en pantalla |
-|---|---|---|---|
-| 0:00–0:40 | Gancho | Muestra la ficha de un personaje de videojuego: nombre, vida, nivel. «Cada dato de esta ficha es una variable». | Una variable = una caja con nombre |
-| 0:40–2:30 | Los cuatro tipos | Crea `String nombre`, `int vida`, `double velocidad` y `boolean tieneEscudo`. Explica la forma: tipo, nombre, `=`, valor. | tipo nombre = valor; |
-| 2:30–4:00 | Mostrar los datos | Usa `+` para unir texto y variables en `println`. Cambia el valor de `vida` y vuelve a ejecutar para ver que cambia. | "Vida: " + vida |
-| 4:00–5:20 | Pausa de práctica | Pide que creen su propio personaje con sus datos. | ⏸ Crea tu personaje |
-| 5:20–6:00 | Cierre | «Nuestro personaje ya existe, pero aún no hace nada. En la próxima lección recibe su primer golpe». | Próxima: operadores |
+Piensa en la ficha de un personaje de videojuego: tiene un nombre, puntos de vida, un nivel… Cada
+dato de esa ficha es una **variable**: una caja con un nombre donde guardamos un valor.
 
-## Errores comunes que conviene mostrar
+Toda variable se crea igual:
 
-- Poner comillas a un número (`"100"` es texto, no número).
-- Usar una variable con otro nombre al escribirla: `Vida` no es `vida`.
+```java
+tipo nombre = valor;
+```
 
-## Antes de publicar
+## Los cuatro tipos básicos
 
-- [ ] Grabación de pantalla con narración en off, sin rostro, nombres ni logos de quien la graba.
-- [ ] Texto en pantalla de cada bloque y anotaciones sobre el código.
-- [ ] Letra del editor ampliada para que se lea en un teléfono.
-- [ ] Enlace al editor con el código inicial precargado en la descripción del video.
-- [ ] Video subido a YouTube como **no listado** y enlace añadido a `course-plan.md`.
+```java
+String nombre = "Luna";        // texto, siempre entre comillas
+int vida = 100;                // número entero
+int nivel = 1;
+double velocidad = 1.5;        // número con decimales
+boolean tieneEscudo = true;    // verdadero (true) o falso (false)
+```
 
-**Siguiente:** [Lección 3: Operadores y expresiones](leccion-03.md)
+## Mostrar los datos
+
+Con `+` unimos texto y variables dentro de `println`:
+
+```java
+System.out.println("Personaje: " + nombre);
+System.out.println("Vida: " + vida);
+System.out.println("¿Tiene escudo? " + tieneEscudo);
+```
+
+Cambia el valor de `vida`, vuelve a pulsar **Run** y verás que el resultado cambia: por eso se llama
+*variable*.
+
+## ⏸ Tu turno
+
+Crea tu propio personaje: dale un nombre, una vida, un nivel, una velocidad y decide si tiene escudo.
+Muestra toda su ficha en la consola.
+
+## Errores típicos
+
+| Error | Qué pasa | Cómo se arregla |
+|---|---|---|
+| Poner comillas a un número: `int vida = "100";` | `"100"` es texto, no un número, y Java marca un error | escribe el número sin comillas |
+| Escribir `Vida` donde la variable se llama `vida` | Java no la encuentra | usa exactamente el mismo nombre, con las mismas mayúsculas |
+| Usar coma en los decimales: `1,5` | Java no lo entiende como número | usa punto: `1.5` |
+
+## Resumen
+
+- Una variable guarda un dato y tiene un tipo, un nombre y un valor.
+- `String` es texto, `int` un entero, `double` un número con decimales y `boolean` verdadero o falso.
+- `+` une texto y variables al mostrarlos.
+
+**Siguiente:** [Lección 3: Operadores y expresiones](leccion-03.md) — nuestro personaje recibe su
+primer golpe.
