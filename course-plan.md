@@ -60,16 +60,16 @@ abre tu navegador web.
 
 ### Lección 7: Clases, objetos y constructores (7 minutos)
 - **Descripción**: Convierte al personaje en una clase y crea varios personajes con new.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-07)
+- **Enlace**: [Ver la lección](https://youtu.be/y6_RdcARQfs)
 - **Conclusiones clave**: Una clase es el molde; un objeto es cada personaje creado con `new`; el constructor da los valores iniciales.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-07) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/z5enTu821) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-07) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-07)
 
 ### Lección 8: Encapsulación: getters y setters (6 minutos)
 - **Descripción**: Protege la vida del personaje para que nadie pueda poner valores imposibles.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-08)
+- **Enlace**: [Ver la lección](https://youtu.be/QAajP_0c-n4)
 - **Conclusiones clave**: `private` oculta los atributos; los getters los leen y los setters los cambian validando.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-08) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/HoZgS0vqvn) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-08) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-08)
 
 ### Lección 9: Arrays y cadenas con objetos (6 minutos)
