@@ -164,4 +164,4 @@ Completa `starter-files/leccion-08/Main.java`:
 - Un setter permite modificarlo de forma controlada.
 - La validacion evita valores fuera del rango definido.
 
-**Siguiente:** Leccion 9: Arrays y cadenas con objetos.
+**Siguiente:** [Lección 9: Arrays y cadenas con objetos](leccion-09.md).
