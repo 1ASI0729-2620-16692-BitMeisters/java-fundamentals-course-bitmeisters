@@ -1,12 +1,12 @@
-public class Main{
-    public static void main(String[] args){
+public class Main {
+    public static void main(String[] args) {
         String nombre = "Luna";
         int vida = 100;
         int nivel = 1;
         int experiencia = 0;
-        int dmg = 30;
-        
-        System.out.println(nombre + "empieza con " + vida + " de vida.");
+        int danio = 30;
+
+        System.out.println(nombre + " empieza con " + vida + " de vida.");
 
         // 1. Resta danio a vida y muestra la vida que le queda
         // 2. Crea int danioCritico con el doble de danio (danio * 2), réstalo a vida y muestra la vida
