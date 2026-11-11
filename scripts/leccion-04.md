@@ -1,4 +1,53 @@
-| `ronda <= 3` | sigue repitiendo mientras sea verdadera |
+# Lección 4: Decisiones y bucles: if-else, for y while
+
+| | |
+|---|---|
+| **Duración** | 8 minutos |
+| **Empieza a programar** | copia [`starter-files/leccion-04/Main.java`](../starter-files/leccion-04/Main.java) en el editor online (JDoodle) y pulsa **Execute** |
+| **Solución** | [`completed-examples/leccion-04/Main.java`](../completed-examples/leccion-04/Main.java) |
+
+## Qué vas a aprender
+
+- Cómo tomar decisiones con `if`, `else if` y `else`.
+- Cómo repetir algo un número fijo de veces con `for`.
+- Cómo repetir mientras se cumpla una condición con `while`.
+
+## Decidir con `if`, `else if` y `else`
+
+Un programa puede elegir qué hacer según una condición. Es como decir: «si Luna tiene mucha vida, está
+bien; si no, está herida; y si tiene muy poca, está en peligro».
+
+```java
+if (vida > 60) {
+    System.out.println(nombre + " está en buena forma.");
+} else if (vida > 30) {
+    System.out.println(nombre + " está herida.");
+} else {
+    System.out.println(nombre + " está en peligro.");
+}
+```
+
+Java revisa las condiciones de arriba abajo y ejecuta **solo el primer bloque** que se cumple. Con
+`vida = 45`, la primera condición (`45 > 60`) es falsa y la segunda (`45 > 30`) es verdadera, así que
+muestra «está herida».
+
+## Repetir un número fijo de veces con `for`
+
+Para repetir algo 3 veces, como tres rondas de entrenamiento:
+
+```java
+for (int ronda = 1; ronda <= 3; ronda++) {
+    experiencia = experiencia + 40;
+    System.out.println("Ronda " + ronda + " de entrenamiento. Experiencia: " + experiencia);
+}
+```
+
+El `for` tiene tres partes entre paréntesis:
+
+| Parte | En el ejemplo | Qué significa |
+|---|---|---|
+| Inicio | `int ronda = 1` | empieza contando desde 1 |
+| Condición | `ronda <= 3` | sigue repitiendo mientras sea verdadera |
 | Paso | `ronda++` | suma 1 a `ronda` después de cada vuelta |
 
 `ronda++` es una forma corta de escribir `ronda = ronda + 1`.
@@ -13,16 +62,16 @@ int vidaDragon = 100;
 int turno = 1;
 
 while (vida > 0 && vidaDragon > 0) {
-    vidaDragon = vidaDragon - 25;
-    System.out.println("Turno " + turno + ": Luna ataca. Vida del dragón: " + vidaDragon);
+vidaDragon = vidaDragon - 25;
+        System.out.println("Turno " + turno + ": Luna ataca. Vida del dragón: " + vidaDragon);
 
     if (vidaDragon > 0) {
-        vida = vida - 20;
+vida = vida - 20;
         System.out.println("Turno " + turno + ": el dragón ataca. Vida de Luna: " + vida);
     }
 
-    turno++;
-}
+turno++;
+        }
 ```
 
 Fíjate en dos detalles:
