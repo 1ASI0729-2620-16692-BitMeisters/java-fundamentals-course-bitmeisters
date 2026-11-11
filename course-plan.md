@@ -32,16 +32,16 @@ abre tu navegador web.
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 - **Descripción**: Haz que tu personaje reciba daño, gane experiencia y suba de nivel.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-03)
+- **Enlace**: [Ver la lección](https://youtu.be/GaS38yf9MWw)
 - **Conclusiones clave**: `+ - * / %` hacen cálculos; `>`, `==` comparan; `&&` y `||` combinan condiciones.
-- **Práctica**: [Clic para programar en JDoodle](PENDIENTE-jdoodle-leccion-03) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/fu3q-ufnm-ake8) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-03) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-03)
 
 ### Lección 4: Decisiones y bucles: if-else, for y while (8 minutos)
 - **Descripción**: Toma decisiones según la vida del personaje y repite acciones en un combate.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-04)
+- **Enlace**: [Ver la lección](https://youtu.be/nUle3Q-Ww4s)
 - **Conclusiones clave**: `if (vida > 60) {}` decide; `for` repite un número fijo de veces; `while` repite mientras se cumpla una condición.
-- **Práctica**: [Clic para programar en JDoodle](PENDIENTE-jdoodle-leccion-04) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/cwga-dqr2-96ah) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-04) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-04)
 
 ### Lección 5: Métodos y parámetros (6 minutos)
