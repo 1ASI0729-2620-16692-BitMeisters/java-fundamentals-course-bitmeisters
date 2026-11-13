@@ -62,16 +62,16 @@ int vidaDragon = 100;
 int turno = 1;
 
 while (vida > 0 && vidaDragon > 0) {
-vidaDragon = vidaDragon - 25;
-        System.out.println("Turno " + turno + ": Luna ataca. Vida del dragón: " + vidaDragon);
+    vidaDragon = vidaDragon - 25;
+    System.out.println("Turno " + turno + ": Luna ataca. Vida del dragón: " + vidaDragon);
 
     if (vidaDragon > 0) {
-vida = vida - 20;
+        vida = vida - 20;
         System.out.println("Turno " + turno + ": el dragón ataca. Vida de Luna: " + vida);
     }
 
-turno++;
-        }
+    turno++;
+}
 ```
 
 Fíjate en dos detalles:
