@@ -53,9 +53,9 @@ abre tu navegador web.
 
 ### Lección 6: Entrada y salida con Scanner (5 minutos)
 - **Descripción**: Deja que el jugador escriba el nombre de su personaje y elija qué hacer.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-06)
+- **Enlace**: [Ver la lección](https://youtu.be/ANFaJovutb0)
 - **Conclusiones clave**: `Scanner teclado = new Scanner(System.in);`; `nextLine()` lee texto y `nextInt()` lee números.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-06) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/ppGpKJ4Sg) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-06) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-06)
 
 ### Lección 7: Clases, objetos y constructores (7 minutos)
