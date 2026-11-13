@@ -46,9 +46,9 @@ abre tu navegador web.
 
 ### Lección 5: Métodos y parámetros (6 minutos)
 - **Descripción**: Ordena el código en acciones reutilizables: atacar, curar y mostrar el estado.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-05)
+- **Enlace**: [Ver la lección](https://youtu.be/g9bVD-wMBBo)
 - **Conclusiones clave**: Un método agrupa instrucciones con nombre; los parámetros son los datos que recibe y `return` devuelve un resultado.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-05) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/k-vbyuqyVE) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-05) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-05)
 
 ### Lección 6: Entrada y salida con Scanner (5 minutos)
