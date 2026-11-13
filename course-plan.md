@@ -117,14 +117,15 @@ NRC 16692
 
 **Nombre del equipo**: BitMeisters
 **Líder del equipo**: PENDIENTE
-**Integrantes del equipo**: Alejandro Espino Flores · Gerardo Valentin Palacin Lazo · Elizabeth Noelia Apaza Bocanegra · Rodrigo Fabrizio Aguilar Untiveros · Juan Manuel Santos Torres
+**Integrantes del equipo**: Alejandro Espino Flores · Gerardo Valentin Palacin Lazo · Rodrigo Fabrizio Aguilar Untiveros
 **Fecha de entrega**: PENDIENTE
 
 ### Resumen de la elaboración en equipo
 
-Cada integrante preparó dos lecciones consecutivas: el código inicial y resuelto, el guion y el
-video. El orden de las lecciones y el hilo del personaje se acordaron antes de grabar, para que cada
-lección parta del código con el que termina la anterior.
+Alejandro Espino Flores preparó las lecciones 1 y 2, Gerardo Valentin Palacin Lazo de la 3 a la 6 y
+Rodrigo Fabrizio Aguilar Untiveros de la 7 a la 10: el código inicial y resuelto, el guion y el video.
+El orden de las lecciones y el hilo del personaje se acordaron antes de grabar, para que cada lección
+parta del código con el que termina la anterior.
 
 | Lecciones | Responsable |
 |---|---|
@@ -132,9 +133,9 @@ lección parta del código con el que termina la anterior.
 | Lección 2 | Alejandro Espino Flores |
 | Lección 3 | Gerardo Valentin Palacin Lazo |
 | Lección 4 | Gerardo Valentin Palacin Lazo |
-| Lección 5 | Elizabeth Noelia Apaza Bocanegra |
-| Lección 6 | Elizabeth Noelia Apaza Bocanegra |
+| Lección 5 | Gerardo Valentin Palacin Lazo |
+| Lección 6 | Gerardo Valentin Palacin Lazo |
 | Lección 7 | Rodrigo Fabrizio Aguilar Untiveros |
 | Lección 8 | Rodrigo Fabrizio Aguilar Untiveros |
-| Lección 9 | Juan Manuel Santos Torres |
-| Lección 10 | Juan Manuel Santos Torres |
+| Lección 9 | Rodrigo Fabrizio Aguilar Untiveros |
+| Lección 10 | Rodrigo Fabrizio Aguilar Untiveros |
