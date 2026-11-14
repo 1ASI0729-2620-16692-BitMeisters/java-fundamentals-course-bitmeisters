@@ -20,7 +20,7 @@ abre tu navegador web.
 - **Descripción**: Descubre qué es un programa, dónde se usa Java y escribe tu primera instrucción.
 - **Enlace**: [Ver la lección](https://youtu.be/J8pJ9TyjjaM)
 - **Conclusiones clave**: Un programa es una lista de instrucciones; `System.out.println("...")` muestra texto en la consola.
-- **Práctica**: [Clic para programar en JSDoodle](https://www.jdoodle.com/ia/w99g-6f56-3vxb) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/w99g-6f56-3vxb) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-01) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-01)
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
@@ -83,7 +83,7 @@ abre tu navegador web.
 - **Descripción**: Construye un combate por turnos que junta todo lo aprendido y repasa los errores típicos.
 - **Enlace**: [Ver la lección](https://youtu.be/k1BzrYTq4Iw)
 - **Conclusiones clave**: Un programa completo combina clases, métodos, bucles, decisiones y Scanner; los nombres claros y la sangría ordenada evitan errores.
-- **Práctica**: [Clic para programar en online GDB](https://onlinegdb.com/zFzsMGW_yD) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/zFzsMGW_yD) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-10) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-10)
 
 ## Recursos adicionales
@@ -93,16 +93,16 @@ abre tu navegador web.
 
 | Número de lección | Actividad | Empezar a programar |
 |---|---|---|
-| 1 | Hola mundo | [Replit](PENDIENTE-replit-leccion-01) |
-| 2 | Ficha del personaje | [Replit](PENDIENTE-replit-leccion-02) |
-| 3 | Daño y experiencia | [JDoodle](PENDIENTE-jdoodle-leccion-03) |
-| 4 | Primer combate | [JDoodle](PENDIENTE-jdoodle-leccion-04) |
-| 5 | Acciones del personaje | [OnlineGDB](PENDIENTE-onlinegdb-leccion-05) |
-| 6 | Menú del jugador | [OnlineGDB](PENDIENTE-onlinegdb-leccion-06) |
-| 7 | Dos personajes | [OnlineGDB](PENDIENTE-onlinegdb-leccion-07) |
-| 8 | Vida protegida | [OnlineGDB](PENDIENTE-onlinegdb-leccion-08) |
-| 9 | Equipo de héroes | [Replit](PENDIENTE-replit-leccion-09) |
-| 10 | Combate por turnos | [Replit](PENDIENTE-replit-leccion-10) |
+| 1 | Hola mundo | [JDoodle](https://www.jdoodle.com/ia/w99g-6f56-3vxb) |
+| 2 | Ficha del personaje | [JDoodle](https://www.jdoodle.com/ia/rc43-4hdn-6e3q) |
+| 3 | Daño y experiencia | [JDoodle](https://www.jdoodle.com/ia/fu3q-ufnm-ake8) |
+| 4 | Primer combate | [JDoodle](https://www.jdoodle.com/ia/cwga-dqr2-96ah) |
+| 5 | Acciones del personaje | [OnlineGDB](https://onlinegdb.com/k-vbyuqyVE) |
+| 6 | Menú del jugador | [OnlineGDB](https://onlinegdb.com/ppGpKJ4Sg) |
+| 7 | Dos personajes | [OnlineGDB](https://onlinegdb.com/z5enTu821) |
+| 8 | Vida protegida | [OnlineGDB](https://onlinegdb.com/HoZgS0vqvn) |
+| 9 | Equipo de héroes | [JDoodle](https://www.jdoodle.com/ia/8fab-k3hs-8rf3) |
+| 10 | Combate por turnos | [OnlineGDB](https://onlinegdb.com/zFzsMGW_yD) |
 
 **¡Gracias por completar el curso!**
 
@@ -116,7 +116,7 @@ Período 202620
 NRC 16692
 
 **Nombre del equipo**: BitMeisters
-**Líder del equipo**: PENDIENTE
+**Líder del equipo**: Alejandro Espino Flores
 **Integrantes del equipo**: Alejandro Espino Flores · Gerardo Valentin Palacin Lazo · Rodrigo Fabrizio Aguilar Untiveros
 **Fecha de entrega**: PENDIENTE
 
