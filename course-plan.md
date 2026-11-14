@@ -18,16 +18,16 @@ abre tu navegador web.
 
 ### Lección 1: ¿Qué es programar y qué es Java? (5 minutos)
 - **Descripción**: Descubre qué es un programa, dónde se usa Java y escribe tu primera instrucción.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-01)
+- **Enlace**: [Ver la lección](https://youtu.be/J8pJ9TyjjaM)
 - **Conclusiones clave**: Un programa es una lista de instrucciones; `System.out.println("...")` muestra texto en la consola.
-- **Práctica**: [Clic para programar en Replit](PENDIENTE-replit-leccion-01) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JSDoodle](https://www.jdoodle.com/ia/w99g-6f56-3vxb) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-01) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-01)
 
 ### Lección 2: Variables y tipos de datos (6 minutos)
 - **Descripción**: Guarda el nombre, la vida y el nivel de tu personaje en variables.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-02)
+- **Enlace**: [Ver la lección](https://youtu.be/XLVmImRmtY0)
 - **Conclusiones clave**: `String` para texto, `int` para enteros, `double` para decimales y `boolean` para sí/no: `int vida = 100;`.
-- **Práctica**: [Clic para programar en Replit](PENDIENTE-replit-leccion-02) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/rc43-4hdn-6e3q) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-02) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-02)
 
 ### Lección 3: Operadores y expresiones (5 minutos)
@@ -74,16 +74,16 @@ abre tu navegador web.
 
 ### Lección 9: Arrays y cadenas con objetos (6 minutos)
 - **Descripción**: Forma un equipo de personajes, recórrelo y busca a uno por su nombre.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-09)
+- **Enlace**: [Ver la lección](https://youtu.be/6tPFjaJpuXg)
 - **Conclusiones clave**: Un array guarda varios objetos; `for-each` los recorre; `toUpperCase()`, `length()` y `equalsIgnoreCase()` trabajan con texto.
-- **Práctica**: [Clic para programar en Replit](PENDIENTE-replit-leccion-09) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/8fab-k3hs-8rf3) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-09) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-09)
 
 ### Lección 10: Programa completo, buenas prácticas y errores comunes (8 minutos)
 - **Descripción**: Construye un combate por turnos que junta todo lo aprendido y repasa los errores típicos.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-10)
+- **Enlace**: [Ver la lección](https://youtu.be/k1BzrYTq4Iw)
 - **Conclusiones clave**: Un programa completo combina clases, métodos, bucles, decisiones y Scanner; los nombres claros y la sangría ordenada evitan errores.
-- **Práctica**: [Clic para programar en Replit](PENDIENTE-replit-leccion-10) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en online GDB](https://onlinegdb.com/zFzsMGW_yD) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-10) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-10)
 
 ## Recursos adicionales
