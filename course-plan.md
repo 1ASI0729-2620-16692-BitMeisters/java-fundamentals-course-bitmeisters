@@ -32,44 +32,44 @@ abre tu navegador web.
 
 ### Lección 3: Operadores y expresiones (5 minutos)
 - **Descripción**: Haz que tu personaje reciba daño, gane experiencia y suba de nivel.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-03)
+- **Enlace**: [Ver la lección](https://youtu.be/GaS38yf9MWw)
 - **Conclusiones clave**: `+ - * / %` hacen cálculos; `>`, `==` comparan; `&&` y `||` combinan condiciones.
-- **Práctica**: [Clic para programar en JDoodle](PENDIENTE-jdoodle-leccion-03) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/fu3q-ufnm-ake8) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-03) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-03)
 
 ### Lección 4: Decisiones y bucles: if-else, for y while (8 minutos)
 - **Descripción**: Toma decisiones según la vida del personaje y repite acciones en un combate.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-04)
+- **Enlace**: [Ver la lección](https://youtu.be/nUle3Q-Ww4s)
 - **Conclusiones clave**: `if (vida > 60) {}` decide; `for` repite un número fijo de veces; `while` repite mientras se cumpla una condición.
-- **Práctica**: [Clic para programar en JDoodle](PENDIENTE-jdoodle-leccion-04) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en JDoodle](https://www.jdoodle.com/ia/cwga-dqr2-96ah) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-04) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-04)
 
 ### Lección 5: Métodos y parámetros (6 minutos)
 - **Descripción**: Ordena el código en acciones reutilizables: atacar, curar y mostrar el estado.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-05)
+- **Enlace**: [Ver la lección](https://youtu.be/g9bVD-wMBBo)
 - **Conclusiones clave**: Un método agrupa instrucciones con nombre; los parámetros son los datos que recibe y `return` devuelve un resultado.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-05) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/k-vbyuqyVE) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-05) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-05)
 
 ### Lección 6: Entrada y salida con Scanner (5 minutos)
 - **Descripción**: Deja que el jugador escriba el nombre de su personaje y elija qué hacer.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-06)
+- **Enlace**: [Ver la lección](https://youtu.be/ANFaJovutb0)
 - **Conclusiones clave**: `Scanner teclado = new Scanner(System.in);`; `nextLine()` lee texto y `nextInt()` lee números.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-06) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/ppGpKJ4Sg) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-06) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-06)
 
 ### Lección 7: Clases, objetos y constructores (7 minutos)
 - **Descripción**: Convierte al personaje en una clase y crea varios personajes con new.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-07)
+- **Enlace**: [Ver la lección](https://youtu.be/y6_RdcARQfs)
 - **Conclusiones clave**: Una clase es el molde; un objeto es cada personaje creado con `new`; el constructor da los valores iniciales.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-07) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/z5enTu821) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-07) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-07)
 
 ### Lección 8: Encapsulación: getters y setters (6 minutos)
 - **Descripción**: Protege la vida del personaje para que nadie pueda poner valores imposibles.
-- **Enlace**: [Ver la lección](PENDIENTE-youtube-leccion-08)
+- **Enlace**: [Ver la lección](https://youtu.be/QAajP_0c-n4)
 - **Conclusiones clave**: `private` oculta los atributos; los getters los leen y los setters los cambian validando.
-- **Práctica**: [Clic para programar en OnlineGDB](PENDIENTE-onlinegdb-leccion-08) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Clic para programar en OnlineGDB](https://onlinegdb.com/HoZgS0vqvn) 👈 **¡No es necesario registrarse!**
 - **Código**: [inicial](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/starter-files/leccion-08) · [resuelto](https://github.com/1ASI0729-2620-16692-BitMeisters/java-fundamentals-course-bitmeisters/tree/main/completed-examples/leccion-08)
 
 ### Lección 9: Arrays y cadenas con objetos (6 minutos)
@@ -117,14 +117,15 @@ NRC 16692
 
 **Nombre del equipo**: BitMeisters
 **Líder del equipo**: PENDIENTE
-**Integrantes del equipo**: Alejandro Espino Flores · Gerardo Valentin Palacin Lazo · Elizabeth Noelia Apaza Bocanegra · Rodrigo Fabrizio Aguilar Untiveros · Juan Manuel Santos Torres
+**Integrantes del equipo**: Alejandro Espino Flores · Gerardo Valentin Palacin Lazo · Rodrigo Fabrizio Aguilar Untiveros
 **Fecha de entrega**: PENDIENTE
 
 ### Resumen de la elaboración en equipo
 
-Cada integrante preparó dos lecciones consecutivas: el código inicial y resuelto, el guion y el
-video. El orden de las lecciones y el hilo del personaje se acordaron antes de grabar, para que cada
-lección parta del código con el que termina la anterior.
+Alejandro Espino Flores preparó las lecciones 1 y 2, Gerardo Valentin Palacin Lazo de la 3 a la 6 y
+Rodrigo Fabrizio Aguilar Untiveros de la 7 a la 10: el código inicial y resuelto, el guion y el video.
+El orden de las lecciones y el hilo del personaje se acordaron antes de grabar, para que cada lección
+parta del código con el que termina la anterior.
 
 | Lecciones | Responsable |
 |---|---|
@@ -132,9 +133,9 @@ lección parta del código con el que termina la anterior.
 | Lección 2 | Alejandro Espino Flores |
 | Lección 3 | Gerardo Valentin Palacin Lazo |
 | Lección 4 | Gerardo Valentin Palacin Lazo |
-| Lección 5 | Elizabeth Noelia Apaza Bocanegra |
-| Lección 6 | Elizabeth Noelia Apaza Bocanegra |
+| Lección 5 | Gerardo Valentin Palacin Lazo |
+| Lección 6 | Gerardo Valentin Palacin Lazo |
 | Lección 7 | Rodrigo Fabrizio Aguilar Untiveros |
 | Lección 8 | Rodrigo Fabrizio Aguilar Untiveros |
-| Lección 9 | Juan Manuel Santos Torres |
-| Lección 10 | Juan Manuel Santos Torres |
+| Lección 9 | Rodrigo Fabrizio Aguilar Untiveros |
+| Lección 10 | Rodrigo Fabrizio Aguilar Untiveros |
